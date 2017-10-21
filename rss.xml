@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[48 Hours]]></title>
+        <description><![CDATA[48 Hours]]></description>
+        <link>http://48hours.tv/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Oct 2017 23:08:07 GMT</lastBuildDate>
+        <atom:link href="http://48hours.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ghost of David Coffin, 48 Hours Mystery, 2017 Update, Dateline Burning Obsession]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyKO18CiO_TA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyKO18CiO_TA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyKO18CiO_TA%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/yKO18CiO_TA</link>
+            <guid isPermaLink="false">d38182c1-041d-4645-bcb6-c2be66a0314a</guid>
+            <pubDate>Sat, 21 Oct 2017 23:08:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
