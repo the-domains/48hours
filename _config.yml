@@ -1,0 +1,111 @@
+typography_spectrum: 0.07457511848770082
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.6977421217598021
+  lightness: 0.24833271582610905
+  saturation: 0.4292051955126226
+  rhythmicContrast: 0.5302416409831494
+layout_spectrum: 0.7488238490186632
+analytics:
+  facebook: ''
+  google: UA-108416201-1
+  twitter: ''
+author:
+  name: 48 Hours Revisted
+  email: freetheinnocentga@gmail.com
+name: 48Hours
+navigation:
+  - name: Due Process Advocacy
+    url: 'Http://due-process.org'
+    type: external
+title: 48 Hours
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyKO18CiO_TA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyKO18CiO_TA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyKO18CiO_TA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/yKO18CiO_TA'
+      keywords:
+        - ghost of david coffin
+        - 48 hours mystery
+        - scott davis
+        - megan lee bruton
+        - megan bruton
+        - rick chambers
+        - paul howard
+        - sheila ross
+        - david coffin murder
+        - scott dav...
+      related: []
+      author:
+        - name: Free The Innocent
+          url: 'https://www.youtube.com/channel/UClSJgOur6My8VcvdTtb1sQw'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: >-
+        The Ghost of David Coffin, 48 Hours Mystery, 2017 Update, Dateline
+        Burning Obsession
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=yKO18CiO_TA&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=yKO18CiO_TA&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=yKO18CiO_TA&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=yKO18CiO_TA&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=yKO18CiO_TA&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=yKO18CiO_TA'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=yKO18CiO_TA
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=yKO18CiO_TA
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: >-
+        48 Hours Mystery Revisited, 2017 update of the 2007 Ghost of David
+        Coffin show. Since this show aired, the evidence of not only possible
+        guilt on the part of Megan Bruton and the misconduct of Atlanta Police
+        has been exposed.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Mystery Revisited
+github: true
